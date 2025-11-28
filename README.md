@@ -40,7 +40,7 @@
 
 1. **克隆或下载项目**
    ```bash
-   git clone [GitHub仓库地址]
+   git clone https://github.com/ishutao/number_game.git
    # 或直接下载项目压缩包并解压
    ```
 
